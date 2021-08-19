@@ -12,7 +12,7 @@
 ---------------------------------------------------------
 <h2>My Github statistics</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuo24&theme=radical)](https://github.com/abuo24&layout=compact) [![abuo24 gihub stats](https://github-readme-stats.vercel.app/api?username=abuo24&show_icons=true&theme=radical)](https://github.com/abuo24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuo24&theme=radical&layout=compact)](https://github.com/abuo24&layout=compact) [![abuo24 gihub stats](https://github-readme-stats.vercel.app/api?username=abuo24&show_icons=true&theme=radical)](https://github.com/abuo24)
 
 -----------------------------------------------------------------
 <h2>Skills</h2>
