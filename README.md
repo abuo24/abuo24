@@ -15,6 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuo24&theme=radical&layout=compact)](https://github.com/abuo24&layout=compact) [![abuo24 gihub stats](https://github-readme-stats.vercel.app/api?username=abuo24&show_icons=true&theme=radical)](https://github.com/abuo24)
 
 -----------------------------------------------------------------
+<!--
 <h2>Skills</h2>
   <h4>Used programming language </h4>
   
@@ -53,3 +54,4 @@
   [![Skills](https://img.shields.io/badge/Linux%20all%20distros%20(deb%2C%20arch)-91%25-white?color=%234518f5&logo=linux&logoColor=%2390ad3d&style=for-the-badge)](10%)
   [![Skills](https://img.shields.io/badge/Windows-93%25-white?color=%234518f5&logo=windows&logoColor=%2390ad3d&style=for-the-badge)](10%)
   
+-->
