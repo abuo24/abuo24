@@ -7,8 +7,8 @@
 
 
 -----------------------------------------------------
-[![GitHub followers](https://img.shields.io/github/followers/abuo24?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=abuo24)
-[![Email](https://img.shields.io/badge/Email-mryediniofficial9924%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:mryediniofficial9924@gmail.com)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/abuo24?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=abuo24)
+[![Email](https://img.shields.io/badge/Email-mryediniofficial9924%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:mryediniofficial9924@gmail.com) -->
 ---------------------------------------------------------
 <h2>My Github statistics</h2>
 
